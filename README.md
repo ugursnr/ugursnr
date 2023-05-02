@@ -1,6 +1,4 @@
-Hi everyone,
-
-I am Ugur and i am currently learning Android App Development with Kotlin. My only regret is that i did not start making apps before. 
+My journey started with Kotlin, continue with Swift.
 
 <!---
 ugursnr/ugursnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
